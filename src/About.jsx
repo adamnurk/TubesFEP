@@ -111,7 +111,7 @@ export const About = () => {
                 </ul>
                 <ul>
                   <li>
-                  <a href="https://indonesia-public-static-api.vercel.app/api/heroes" class="text-info">Github</a>
+                  <a href="https://github.com/adamnurk/TubesFEP.git" class="text-info">Git Hub</a>
                   </li>
                 </ul>
               </div>
